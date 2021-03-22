@@ -1,0 +1,6 @@
+framework module YADetectorFF {
+  umbrella header "YADetectorFF-umbrella.h"
+
+  export *
+  module * { export * }
+}
